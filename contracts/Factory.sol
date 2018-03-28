@@ -1,6 +1,6 @@
 pragma solidity ^0.4.15;
 
-import 'contracts/FABA_Token1.sol';
+import 'contracts/BeanToken1.sol';
 
 contract Factory {
 
